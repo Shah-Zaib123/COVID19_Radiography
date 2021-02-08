@@ -90,8 +90,4 @@ The confusion matrix of the model is as follows.<br />
 Few model predictions are as follows.<br />
 ![alt text](https://github.com/MuhammadJunaidAkram/COVID19_Radiography/blob/main/images/pred_labels_results.png?raw=true)
 
-### Google drive Link for Pre-trained Model weights
-```bash
-https://drive.google.com/file/d/19Rk8PTuE_Pfo-i9Y9pcHlFkGw3IYCxDj/view?usp=sharing
-```
 
