@@ -85,3 +85,7 @@ The training loss is 7.02% and validation loss is 7.84%. Loss over each epoch ca
 **Confusion Matrix**
 The confusion matrix of the model is as follows.<br />
 ![alt text](https://github.com/MuhammadJunaidAkram/COVID19_Radiography/blob/main/images/confusion_matrix.png?raw=true)
+
+**Model Predictions**
+Few model predictions are as follows.<br />
+![alt text](https://github.com/MuhammadJunaidAkram/COVID19_Radiography/blob/main/images/pred_labels_results.png?raw=true)
